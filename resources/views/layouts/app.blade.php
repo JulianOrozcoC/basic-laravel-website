@@ -23,7 +23,7 @@
 </div>
 </div>
 <footer id="footer" class="text-center">
-	<p>Copyrigh 2017 &copy; Acme</p>
+	<p>Copyrigh 2017 &copy; Acme Industries</p>
 </footer>
 </body>
 </html> 

@@ -15,6 +15,7 @@
 @endif
 <div class = "row">
 	<div class = "col-md-8 col-lg-8">
+	@include('includes.messages')
 	@yield('content')
 	</div>
 	<div class = "rocol-md-4 col-lg-4">
